@@ -26,6 +26,7 @@ const firstUser = {
             city: "Tangerang"
         }
     ],
+
     favoriteRestaurant : new Set([
         "Bento", "Sushi", "Pancake", "Eggy", "Tempura", "Bento", "Eggy", "Padang", "Tteok", "Sushi", "Sushi"
     ])
@@ -61,6 +62,7 @@ const secondUser = {
             city: "Tangerang"
         }
     ],
+    
     favoriteRestaurant : new Set([
        "Tempura", "Bento", "Sushi", "Pancake", "Padang", "Katsu", "Geprek", "Pancake", "Eggy"
     ])
